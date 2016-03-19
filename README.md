@@ -1,5 +1,7 @@
 # Yelp-Data-Analysis
 
+This Project is to get hands-on knowledge of writing MapReduce programs
+
 Question1 : This map reduce program lists each business Id that are located in the area entered by user
 
 Question2 : This Map Reduce job finds the top ten rated businesses using the average ratings.
