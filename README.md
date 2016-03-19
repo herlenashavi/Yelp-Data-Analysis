@@ -1,8 +1,11 @@
 # Yelp-Data-Analysis
 
 Question1 : This map reduce program lists each business Id that are located in the area entered by user
+
 Question2 : This Map Reduce job finds the top ten rated businesses using the average ratings.
+
 Question3 : This Map reduce job implements reduce side join to list the business_id , full address and categories of the Top 10 businesses using the average ratings.
+
 Question4 : This code implements map side join for listing the 'user id' and 'stars' of users that reviewed businesses located in Stanford
 
 Dataset Description:
